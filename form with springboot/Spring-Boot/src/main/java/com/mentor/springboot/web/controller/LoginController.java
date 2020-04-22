@@ -38,7 +38,7 @@ public class LoginController {
 		   
            return "login";
            }
-           return "Wekcome";
+           return "Welcome";
 	
 	
                                          }
